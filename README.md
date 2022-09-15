@@ -17,7 +17,7 @@ Activity 3
 
 Activity 5
 
-![image](https://user-images.githubusercontent.com/55057578/190302662-ba36bda4-6f71-4a63-8ba2-7ed08a82873e.png)
+![image](https://user-images.githubusercontent.com/55057578/190308055-5452d829-507e-4635-be50-72f1693551fb.png)
 
 
 Activity 6
