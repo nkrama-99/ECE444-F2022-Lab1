@@ -13,3 +13,8 @@ Activity 2
 Activity 3
 
 ![image](https://user-images.githubusercontent.com/55057578/190287484-b0bf73fa-7017-4c5e-9aef-12c3a4dc44d7.png)
+
+
+Activity 6
+
+https://github.com/nkrama-99/ECE444-F2022-EP
