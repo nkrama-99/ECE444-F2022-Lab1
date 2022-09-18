@@ -15,6 +15,15 @@ Activity 3
 ![image](https://user-images.githubusercontent.com/55057578/190287484-b0bf73fa-7017-4c5e-9aef-12c3a4dc44d7.png)
 
 
+Activity 4
+
+https://github.com/Ali-Msk/ECE444-F2022-Lab1
+
+![image](https://user-images.githubusercontent.com/55057578/190883518-602f38dd-b390-4b84-8d04-84135cdf07e0.png)
+
+![image](https://user-images.githubusercontent.com/55057578/190883527-856af503-e508-4dc2-847b-7debd2d24de1.png)
+
+
 Activity 5
 
 ![image](https://user-images.githubusercontent.com/55057578/190308055-5452d829-507e-4635-be50-72f1693551fb.png)
